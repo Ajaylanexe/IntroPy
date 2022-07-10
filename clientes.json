@@ -1,0 +1,14 @@
+{
+    "cliente": [
+        {
+            "nome": "Juca",
+            "telefone": "11920289515",
+            "email": "juca@emailgen.com"
+        },
+        {
+            "nome": "Heitor",
+            "telefone": "11928889515",
+            "email": "heitor@emaigen.com"
+        }
+    ]
+}
